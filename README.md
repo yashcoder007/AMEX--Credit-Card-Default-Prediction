@@ -4,9 +4,8 @@
 
 2. pip install requirements.txt
 
-# Data uncompression
-
-1. put train_data.csv, train_labels.csv, test_data.csv in ./input/
+# Getting the data
+You can get the data from - [link] (https://www.kaggle.com/competitions/amex-default-prediction/data)
 
 # Running
 
