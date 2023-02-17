@@ -85,7 +85,7 @@ Use the `BLANK_README.md` to get started.
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+The major frameworks used to build the project.
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
