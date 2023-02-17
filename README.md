@@ -75,8 +75,9 @@ Credit default prediction is central to managing risk in a consumer lending busi
 
 The objective of this project is to predict the probability that a customer does not pay back their credit card balance amount in the future based on their monthly customer profile. 
 
+## Steps to follow the repository
 
-
+1. The EDA and base line model is present in <a href="https://github.com/yashcoder007/AMEX--Credit-Card-Default-Prediction/amex-default-prediction-eda-lgbm-baseline (2).ipynb"><strong>Explore the docs »</strong></a>
 
 
 
@@ -84,14 +85,15 @@ The objective of this project is to predict the probability that a customer does
 
 The major frameworks used to build the project.
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+
+* [python](https://www.python.org/)
+* [jupyter ](https://jupyter.org/)
+* [scikit-learn](https://scikit-learn.org/stable/)
+* [Numpy](https://numpy.org/)
+* [pandas](https://pandas.pydata.org/)
+* [SciPy](https://scipy.org/)
+* [Matplotlib](https://matplotlib.org/)
+* [LightGBM](https://lightgbm.readthedocs.io/en/v3.3.2/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
