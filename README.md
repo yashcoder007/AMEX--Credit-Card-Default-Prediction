@@ -103,13 +103,14 @@ The python libraries mentioned in Built With
 ### Installation
 
 1. Download the dataset
-```sh
-https://www.kaggle.com/competitions/amex-default-prediction```
+```
+https://www.kaggle.com/competitions/amex-default-prediction
+```
 
 2. Clone the repo
 
-```sh
-https://github.com/yashcoder007/Canadian-Banks-Stock-Market-Analysis.git
+```
+git clone https://github.com/yashcoder007/AMEX--Credit-Card-Default-Prediction
 ```
 3. Install packages using  conda or pip.
 For example:  "pip install -U scikit-learn" or "conda install -c conda-forge scikit-learn"
@@ -129,12 +130,11 @@ For example:  "pip install -U scikit-learn" or "conda install -c conda-forge sci
 3. Download and use the .ipynb with jupyter notebooks.
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/yashcoder007/Canadian-Banks-Stock-Market-Analysis
-/issues) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
+Contributions have made the open source community an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+* If you have suggestions for adding or removing any parts in my notebook, feel free to [open an issue](https://github.com/yashcoder007/AMEX--Credit-Card-Default-Prediction
+/issues) to discuss it, or directly create a pull request.
 * Please make sure you check your spelling and grammar.
 * Create individual PR for each suggestion.
-* Please also read through the [Code Of Conduct](https://github.com/yashcoder007/Canadian-Banks-Stock-Market-Analysis.git/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
 
 ### Creating A Pull Request
 
@@ -146,7 +146,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/yashcoder007/Canadian-Banks-Stock-Market-Analysis.git/blob/main/LICENSE.md) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/yashcoder007/AMEX--Credit-Card-Default-Prediction.git/blob/main/LICENSE.md) for more information.
 
 ## Authors
 
