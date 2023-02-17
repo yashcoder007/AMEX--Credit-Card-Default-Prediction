@@ -3,7 +3,7 @@
 <!--
 *** Credit Card Default Prediction.
 *** 
--->
+
 
 
 
@@ -23,7 +23,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="output/logo.jpeg" alt="images(1)" width="150" height="120">
+    <img src="output/logo.jpeg" alt="images(1)" width="200" height="150">
   </a>
 
   <h3 align="center">Credit Card Default Prediction</h3>
