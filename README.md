@@ -23,7 +23,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="output/logo.jpeg" alt="images(1)" width="80" height="80">
+    <img src="output/logo.jpeg" alt="images(1)" width="120" height="100">
   </a>
 
   <h3 align="center">Credit Card Default Prediction</h3>
