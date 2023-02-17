@@ -1,6 +1,6 @@
 # Environment set up
 
-1. python==3.7.10
+1. python==3.7 and above
 
 2. pip install requirements.txt
 
