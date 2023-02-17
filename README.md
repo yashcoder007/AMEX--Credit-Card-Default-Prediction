@@ -77,7 +77,7 @@ The objective of this project is to predict the probability that a customer does
 
 ## Steps to follow the repository
 
-1. The EDA and base line model is present in <a href="https://github.com/yashcoder007/AMEX--Credit-Card-Default-Prediction/amex-default-prediction-eda-lgbm-baseline (2).ipynb"><strong>EDA(Exploratory Data Analysis) »</strong></a>
+1. The EDA and base line model is present in <a href="https://github.com/yashcoder007/AMEX--Credit-Card-Default-Prediction/amex-default-prediction-eda-lgbmbaseline.ipynb"><strong>EDA(Exploratory Data Analysis) »</strong></a>
 
 
 
