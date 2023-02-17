@@ -96,9 +96,10 @@ The major frameworks used to build the project.
 * [LightGBM](https://lightgbm.readthedocs.io/en/v3.3.2/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### Prerequisites
 
-The python libraries mentioned in Built With
+* The python libraries mentioned in Built With
 
 ### Installation
 
